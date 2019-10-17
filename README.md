@@ -30,10 +30,10 @@ Rows which had error
 [{"first_name":"","last_name":"","email":"nouser@gmail.com","platforms":["web","ios"],"password":"password","job_title":"","department":""},{"first_name":"Ron","last_name":"Jones","email":"ronjonesatgmail.com","platforms":["web"],"password":"Password3","job_title":"Manager","department":"Management"},{"first_name":"Newt","last_name":"Rick","email":"newt.rick@gmail.com","platforms":["web","ios"],"password":"bad","job_title":"","department":"HR"}]
 
 Files :
-C:\xampp\htdocs\bigtincan\app\Http\Services\CsvAdapterService.php
-C:\xampp\htdocs\bigtincan\routes\console.php
-C:\xampp\htdocs\bigtincan\routes\web.php
-C:\xampp\htdocs\bigtincan\app\Http\Controllers\CsvToJsonController.php
+Path\app\Http\Services\CsvAdapterService.php
+Path\routes\console.php
+Path\routes\web.php
+Path\app\Http\Controllers\CsvToJsonController.php
 
 
 The only thing thats missed out is the PHP Unit test due to lack of time.
