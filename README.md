@@ -36,7 +36,7 @@ C:\xampp\htdocs\bigtincan\routes\web.php
 C:\xampp\htdocs\bigtincan\app\Http\Controllers\CsvToJsonController.php
 
 
-The only thing thats missed out is the PHP Unit test. If given more time i would have implemented that.
+The only thing thats missed out is the PHP Unit test due to lack of time.
 
 
 
